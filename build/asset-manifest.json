@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/User-Capture/static/css/main.35836429.css",
+    "main.js": "/User-Capture/static/js/main.fcfbb75a.js",
+    "index.html": "/User-Capture/index.html",
+    "main.35836429.css.map": "/User-Capture/static/css/main.35836429.css.map",
+    "main.fcfbb75a.js.map": "/User-Capture/static/js/main.fcfbb75a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35836429.css",
+    "static/js/main.fcfbb75a.js"
+  ]
+}
